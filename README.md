@@ -18,7 +18,7 @@ The Weather Dashboard is a React-based web application that provides current wea
 
 1. Clone the repository:
 
-    git clone https://github.com/yourusername/weather-dashboard.git
+    git clone [https://github.com/yourusername/weather-dashboard.git](https://github.com/JayaramHarry/Marklytics_Weather_Dashbord.git)
     cd weather-dashboard
   
 
