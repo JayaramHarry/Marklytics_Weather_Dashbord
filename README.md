@@ -18,18 +18,18 @@ The Weather Dashboard is a React-based web application that provides current wea
 
 1. Clone the repository:
 
-    git clone [https://github.com/yourusername/weather-dashboard.git](https://github.com/JayaramHarry/Marklytics_Weather_Dashbord.git)
-    cd weather-dashboard
+    git clone https://github.com/yourusername/weather-dashboard.git](https://github.com/JayaramHarry/Marklytics_Weather_Dashbord.git
+    cd marklytics-dashboard
   
 
-2. Install dependencies:
+3. Install dependencies:
     npm install
 
-3. Create a `.env` file in the root directory and add your OpenWeatherMap API key:
+4. Create a `.env` file in the root directory and add your OpenWeatherMap API key:
 
     REACT_APP_OPENWEATHERMAP_API_KEY=your_api_key_here
 
-4. Start the development server:
+5. Start the development server:
     npm start
 
     The application will be available at `http://localhost:3000`.
