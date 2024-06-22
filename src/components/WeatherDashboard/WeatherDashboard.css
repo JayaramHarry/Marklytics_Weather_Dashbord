@@ -1,0 +1,14 @@
+header{
+  margin: 40px;
+}
+.dropdown-container {
+  display: flex;
+  justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  main{
+    margin: 40px;
+  }
+  label{
+    font-weight: 700;
+  }
