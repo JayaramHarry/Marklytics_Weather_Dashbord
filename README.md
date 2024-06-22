@@ -19,7 +19,7 @@ The Weather Dashboard is a React-based web application that provides current wea
 1. Clone the repository:
 
     git clone https://github.com/yourusername/weather-dashboard.git](https://github.com/JayaramHarry/Marklytics_Weather_Dashbord.git
-    cd marklytics-dashboard
+   cd marklytics-dashboard
   
 
 3. Install dependencies:
@@ -40,7 +40,7 @@ The Weather Dashboard is a React-based web application that provides current wea
 
 
 ## Live Demo
-Check out the live demo [here](https://your-live-demo-link.com).
+Check out the live demo [[here](https://your-live-demo-link.com).](https://drive.google.com/file/d/1malrQrKmZpnNXCZK13qUzSsrIHo-fyvt/view?usp=sharing)
 
 ## License
 This project is licensed under the MIT License.
